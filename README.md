@@ -26,4 +26,4 @@
 26. 𝐠𝐢𝐭 𝐫𝐞𝐬𝐞𝐭 --𝐬𝐨𝐟𝐭 𝐇𝐄𝐀𝐃^: Undo the last commit, but keep the changes.
 27. 𝐠𝐢𝐭 𝐫𝐞𝐬𝐞𝐭 --𝐡𝐚𝐫𝐝: Resets everything to a previous commit, erasing all uncommitted changes.
 28: 𝐠𝐢𝐭 𝐛𝐫𝐚𝐧𝐜𝐡 --𝐬𝐞𝐭-𝐮𝐩𝐬𝐭𝐫𝐞𝐚𝐦-𝐭𝐨 𝐫𝐞𝐦𝐨𝐭𝐞_𝐛𝐫𝐚𝐧𝐜𝐡: Sets the upstream branch to the specified 
-![image](https://github.com/user-attachments/assets/aa578493-ab96-49aa-83a1-c2437adcd127)
+
